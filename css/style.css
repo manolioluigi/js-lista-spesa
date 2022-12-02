@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+body{
+    background-color: rgb(34, 163, 159);
+}
+
+.container{
+    background-color: rgb(34, 34, 34);
+    width: 40%;
+    margin: 10vh auto 10vh auto;
+    color: rgb(243, 239, 224);
+    padding: 50px;
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    font-size: 22px;
+    text-decoration: line-through;
+}
+
+h1{
+    font-size: 50px;
+}
+
+hr{
+    margin: 2vh;
+}
+
+.container:hover{
+    background-color: rgb(67, 66, 66);
+}
